@@ -12,7 +12,7 @@
     "react-dom": "^16.9.0",
     "react-router-config": "^5.0.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.2",
+    "react-scripts": "5.0.1",
     "react-toastify": "^5.4.0",
     "reactstrap": "^8.0.1",
     "superagent": "^5.1.0",
